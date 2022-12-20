@@ -2,6 +2,9 @@ package com.accenture.lkm;
 
 public class Employee
 {
+	/*
+	Some comments are added by Kausar Khan
+	*/
 private int empId;
 private String empName;
 private int salary;
